@@ -58,7 +58,7 @@ class Program
 
         }
     }
-
+    
     private static void Add(ref string[] names, ref string[] positions)
     {
         Console.WriteLine("Введите ФИО сотрудника");
